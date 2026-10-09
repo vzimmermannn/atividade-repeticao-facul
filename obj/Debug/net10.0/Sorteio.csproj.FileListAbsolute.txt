@@ -1,0 +1,14 @@
+C:\Users\marco\Sorteio\bin\Debug\net10.0\Sorteio.exe
+C:\Users\marco\Sorteio\bin\Debug\net10.0\Sorteio.deps.json
+C:\Users\marco\Sorteio\bin\Debug\net10.0\Sorteio.runtimeconfig.json
+C:\Users\marco\Sorteio\bin\Debug\net10.0\Sorteio.dll
+C:\Users\marco\Sorteio\bin\Debug\net10.0\Sorteio.pdb
+C:\Users\marco\Sorteio\obj\Debug\net10.0\Sorteio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Sorteio\obj\Debug\net10.0\Sorteio.AssemblyInfoInputs.cache
+C:\Users\marco\Sorteio\obj\Debug\net10.0\Sorteio.AssemblyInfo.cs
+C:\Users\marco\Sorteio\obj\Debug\net10.0\Sorteio.csproj.CoreCompileInputs.cache
+C:\Users\marco\Sorteio\obj\Debug\net10.0\Sorteio.dll
+C:\Users\marco\Sorteio\obj\Debug\net10.0\refint\Sorteio.dll
+C:\Users\marco\Sorteio\obj\Debug\net10.0\Sorteio.pdb
+C:\Users\marco\Sorteio\obj\Debug\net10.0\Sorteio.genruntimeconfig.cache
+C:\Users\marco\Sorteio\obj\Debug\net10.0\ref\Sorteio.dll
